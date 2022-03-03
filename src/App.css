@@ -10,7 +10,7 @@
 
 .container {
   height: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./images/pic1.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://unsplash.com/photos/3l3RwQdHRHg');
   background-size: cover;
   background-position: center;
   display: flex;
