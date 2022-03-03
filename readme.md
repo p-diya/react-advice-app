@@ -2,5 +2,5 @@
 
 An Advice App generates random advice with the help of Advice Slip JSON API and uses React as a front-end technology
 
-Get an advice here
+Get an advice here <br>
 https://get-an-advice.netlify.app/
